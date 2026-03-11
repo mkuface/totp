@@ -1,0 +1,6 @@
+com\metsakuur\totpdemo\TotpDemoApplication.class
+com\metsakuur\totpdemo\controller\TotpController.class
+com\metsakuur\totpdemo\dto\BaseResponse.class
+com\metsakuur\totpdemo\dto\DataResponse.class
+com\metsakuur\totpdemo\dto\TotpEncRequest.class
+com\metsakuur\totpdemo\dto\TotpDecRequest.class

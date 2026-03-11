@@ -1,0 +1,9 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: totpdemo:latest
+    container_name: totpdemo-app
+    ports:
+      - "8011:8010"
