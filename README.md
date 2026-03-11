@@ -1,4 +1,4 @@
-# TOTP Encrypt/Decrypt Demo
+# Metsakuur TOTP Encrypt/Decrypt Example
 
 Spring Boot example that exposes two APIs to encrypt and decrypt payloads with `MkTotpUtil`.
 
@@ -13,7 +13,8 @@ Spring Boot example that exposes two APIs to encrypt and decrypt payloads with `
 - Maven (or Maven Wrapper)
 - Native and Java libs in `libs/`:
   - `libMKtotp.so`
-  - `mkfr_ezway_v1_6_1.jar`
+  - `libcrypto.so.3`
+  - `ufaceMKtotp-1.0.0.jar`
 
 ## Run locally
 

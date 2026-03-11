@@ -30,13 +30,7 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-validation</artifactId>
         </dependency>
-        <dependency>
-            <groupId>com.metsakuur.libs</groupId>
-            <artifactId>mkfr-ezway</artifactId>
-            <version>1.6.1</version>
-            <scope>system</scope>
-            <systemPath>${project.basedir}/libs/mkfr_ezway_v1_6_1.jar</systemPath>
-        </dependency>
+
         <dependency>
             <groupId>com.metsakuur.libs</groupId>
             <artifactId>ufaceMktotp</artifactId>
